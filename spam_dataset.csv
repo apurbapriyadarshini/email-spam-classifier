@@ -1,0 +1,51 @@
+text,label
+"Congratulations! You have won a lottery of $1000000, claim now",spam
+"Win a free iPhone now, click this link immediately",spam
+"You are selected for a free vacation trip, act now",spam
+"Limited time offer, buy now and get 50% discount",spam
+"Claim your prize money now, urgent reply needed",spam
+"Get cheap loans instantly, no documents required",spam
+"Congratulations, you have been selected for a cash reward",spam
+"URGENT: Your account will be suspended, click here to verify",spam
+"You have won a free cruise ticket, reply now to claim",spam
+"Earn $5000 per week working from home, no experience needed",spam
+"Hot singles in your area want to meet you tonight",spam
+"Your bank account has been compromised, verify your details now",spam
+"Free entry in a weekly contest to win a brand new car",spam
+"Click here to unlock your free gift card worth $500",spam
+"Your package could not be delivered, click to reschedule",spam
+"You have been pre-approved for a credit card with 0% interest",spam
+"Buy medicines online without prescription, huge discount",spam
+"Make money fast, invest now and double your income",spam
+"Your Netflix subscription has expired, update payment now",spam
+"Congratulations, you are our lucky winner today",spam
+"Lose 10kg in 10 days with this one weird trick",spam
+"Your Amazon order has an issue, verify your account immediately",spam
+"Claim your free trial now before the offer ends",spam
+"Act now, this exclusive deal expires in 1 hour",spam
+"You have an unclaimed refund waiting, click to receive",spam
+"Hi, are we still meeting for lunch tomorrow?",ham
+"Please find attached the notes for tomorrow's class",ham
+"Mom, I will be home late today, don't worry",ham
+"Reminder: your assignment submission is due tomorrow",ham
+"Let's catch up this weekend, long time no see",ham
+"The project meeting has been rescheduled to 5pm",ham
+"Can you send me the lecture slides from today?",ham
+"Happy birthday! Hope you have a great day",ham
+"Don't forget to bring your laptop for the lab session",ham
+"The professor extended the deadline for the assignment",ham
+"Let's plan a trip during the semester break",ham
+"Thanks for helping me with the project yesterday",ham
+"Are you coming to the college fest this weekend?",ham
+"I have uploaded the study material on the portal",ham
+"Can we reschedule our call to 6pm today?",ham
+"The exam timetable has been released, check the notice board",ham
+"Congratulations on your internship offer, well deserved",ham
+"Please review the code I pushed to the repository",ham
+"Let's form a team for the hackathon this month",ham
+"I will share the meeting notes after the class",ham
+"Can you proofread my resume before I submit it?",ham
+"The library will be closed tomorrow for maintenance",ham
+"Let's meet at the canteen after the second lecture",ham
+"Great job on the presentation today, well done",ham
+"Please carry your ID card for the exam tomorrow",ham
