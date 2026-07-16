@@ -54,3 +54,5 @@ The model achieves approximately **85% accuracy** on the test set for this sampl
 - Apply TF-IDF vectorization instead of simple word counts
 - Compare performance against other algorithms such as Logistic Regression or Support Vector Machines
 - Add text preprocessing steps such as lemmatization and removal of punctuation/numbers
+
+AI/ML Intern, CodTech IT Solutions InternID: CITS5467
